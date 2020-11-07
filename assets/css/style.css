@@ -12,7 +12,7 @@ body {
 
 nav {
     background-color: rgb(206, 238, 227);
-    padding: 30px;
+    padding: 20px;
     border-bottom: 5px solid white;
     text-align: center;
     font-size: 2em;
@@ -24,6 +24,13 @@ main {
     padding: 50px;
     background-color: rgb(206, 238, 227);
     min-height: 50vh;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(206, 238, 227);
+    padding: 20px;
+    border-top: 5px solid white;
 }
 
 h1 {
