@@ -69,3 +69,7 @@ label {
     height: auto;
     width: 100%;
 }
+
+.required-field {
+    color: red;
+}
